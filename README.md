@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning  CSS and JavaScript.
 - 💞️ I’m looking to collaborate on projects on app development and full stack development.
 - 📫 How to reach me stiyajo9544@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Connect with me
+-   https://www.linkedin.com/in/stiya-johnson-32b634255
 
 <!---
 
