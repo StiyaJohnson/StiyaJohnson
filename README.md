@@ -5,7 +5,8 @@
 - 📫 How to reach me stiyajohn9544@gmail.com
 - Connect with me
 -   https://www.linkedin.com/in/stiya-johnson-32b634255
--   https://www.instagram.com/stiya_johns_
+-   https://www.instagram.com/stiya_johns_?igsh=bDR1YTA5Zm9vZHF0
+-  
 
 <!---
 
