@@ -35,6 +35,8 @@
    <img src="https://img.shields.io/badge/-Vite-4B50C8?logo=vite&logoColor=white&style=for-the-badge" alt="vite"/>
    <img src="https://img.shields.io/badge/-Next.js-646CFF?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js"/>
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman"/>
+
 
 
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" />
