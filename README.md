@@ -33,6 +33,9 @@
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart" />
    <img src="https://img.shields.io/badge/-Vite-4B50C8?logo=vite&logoColor=white&style=for-the-badge" alt="vite"/>
+   <img src="https://img.shields.io/badge/-Next.js-646CFF?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap"/>
+
 
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" />
 </p>
