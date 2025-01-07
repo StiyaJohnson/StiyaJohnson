@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stiyajohnson" alt="stiyajohnson" /></a> </p>
 
-- 
+ 
 
 🔭 I’m currently working on **Full Stack Development (React, Next.js, Node.js)**  
 🌱 I’m learning **Backend tools (Node.js, Express.js) and Scalable Architecture**  
