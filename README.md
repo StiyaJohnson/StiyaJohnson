@@ -21,7 +21,7 @@
 <a href="https://www.instagram.com/stiya_johns_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/stiya_johns_/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/stiyajohn9544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/stiyajohn9544" height="30" width="40" /></a>
  <a href="https://leetcode.com/u/stiya_john/" target="blank">
-  <a href="https://leetcode.com/u/stiya_john/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/stiya_john/" height="30" width="40" /></a>
+  
 </a>
 
 </p>
