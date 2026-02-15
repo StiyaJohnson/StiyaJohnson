@@ -7,7 +7,7 @@
 
  
 
-🤖 Passionate and highly curious about **Artificial Intelligence**, building real-world AI solutions and exploring intelligent system design
+🤖 Passionate and highly curious about **Artificial Intelligence**, building real-world AI solutions.
 ⚙️ Specializing in **Backend Development (FastAPI, Python)** and scalable architecture
 🌐 Experienced in integrating **AI models** with web applications (React, Next.js)
 💻 Open to collaborate on **Backend**,**AI**, and Data-driven projects
