@@ -49,11 +49,8 @@
    <img src="https://img.shields.io/badge/-Next.js-646CFF?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js"/>
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman"/>
- <img src="https://img.shields.io/badge/-Artificial%20Intelligence-000000?style=for-the-badge&logo=OpenAI&logoColor=white" alt="AI"/>
-
-
-
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" />
+ 
+  
 </p>
 
 
