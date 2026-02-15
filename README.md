@@ -6,12 +6,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stiyajohnson" alt="stiyajohnson" /></a> </p>
 
  
+## About Me
 
-🤖 Passionate and highly curious about **Artificial Intelligence**, building real-world AI solutions.
-⚙️ Specializing in **Backend Development (FastAPI, Python)** and scalable architecture
-🌐 Experienced in integrating **AI models** with web applications (React, Next.js)
-💻 Open to collaborate on **Backend**,**AI**, and Data-driven projects
-📫 Reach me at: **stiyajohn9544@gmail.com**
+- 🤖 Passionate and highly curious about **Artificial Intelligence**, building real-world AI solutions and exploring modern AI technologies.
+- ⚙️ Specializing in **Backend Development using FastAPI and Python**, with a focus on scalable and efficient architecture.
+- 🌐 Experienced in integrating **AI models** with web applications using **React and Next.js**.
+- 💻 Open to collaborate on **Backend, AI, and Data-driven projects**.
+
+📫 **Reach me at:** stiyajohn9544@gmail.com
+
 
 
 
