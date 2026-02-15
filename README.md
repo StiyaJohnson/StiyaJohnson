@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stiyajohnson&label=Profile%20views&color=0e75b6&style=flat" alt="stiyajohnson" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stiyajohnson" alt="stiyajohnson" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stiyajohnson" alt="stiyajohnson" /></a> </p> -->
 
  
 ## 🚀 About Me
