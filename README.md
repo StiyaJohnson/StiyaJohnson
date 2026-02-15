@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stiya Johnson</h1>
-<h3 align="center">A passionate fullstack developer from India.</h3>
+<h3 align="center">A passionate AI and fullstack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stiyajohnson&label=Profile%20views&color=0e75b6&style=flat" alt="stiyajohnson" /> </p>
 
@@ -7,10 +7,11 @@
 
  
 
-🔭 I’m currently working on **Full Stack Development (React, Next.js)**  
-🌱 I’m learning **Backend tools (Node.js) and Scalable Architecture**  
-💻 I’m looking to collaborate on **Frontend Development and Data Solutions**  
-📫 How to reach me: **stiyajohn9544@gmail.com**
+🤖 Passionate and highly curious about **Artificial Intelligence**, building real-world AI solutions and exploring intelligent system design
+⚙️ Specializing in **Backend Development (FastAPI, Python)** and scalable architecture
+🌐 Experienced in integrating **AI models** with web applications (React, Next.js)
+💻 Open to collaborate on **Backend**,**AI**, and Data-driven projects
+📫 Reach me at: **stiyajohn9544@gmail.com**
 
 
 
